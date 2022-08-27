@@ -2,10 +2,7 @@
 # <center>Projeto de Conclusão -  Módulo 3 - Curso Data Analyst - RESILIA</center>
 
 
-
-<img src="https://user-images.githubusercontent.com/40433498/187041095-e1aa5434-ac81-40eb-b58e-b735011ff016.PNG" width="1500" height="1000" />
-
-
+![banner](https://user-images.githubusercontent.com/40433498/187044632-c12f7333-3fc0-480e-ab47-3c82b5142cd6.gif)
 
 
 ### OBJETIVO

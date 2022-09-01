@@ -47,7 +47,7 @@
 5.<img src="https://user-images.githubusercontent.com/40433498/187958006-e5b4740a-cf61-4b08-9b06-4dd1ae373d3d.jpg" width="100" height="100" />
 
 
-| ID | FUNÇÃO|NOME_COLABORADOR|GITHUB|LINKEDIN|
+| ID | FUNÇÃO|NOME_COLABORADOR|LINKEDIN|GITHUB|
 |--- |--- | --- |--- |--- |
 | 1 |CO-FACILITADORA|CAROL CANDEIAS|<a href="https://www.linkedin.com/in/carol-candeias-ba328216a/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/> | <a href="https://github.com/CarolCandeias/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteelink=https://https://github.com/CarolCandeias/"/>|
 | 2 |GESTORA DE CONHECIMENTO|STEPHANIE FERNANDES|<a href="https://www.linkedin.com/in/stephaniefernandes23/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/>|<a href="#" alt="Github"> <a href="https://github.com/stefernandes23" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteelink=https://https://github.com/CarolCandeias/"/>|

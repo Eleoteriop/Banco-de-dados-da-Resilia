@@ -6,7 +6,43 @@
 
 | ID | Descrição| 
 |--- |--- |
-| 1 | O Objetivo do projeto é criarmos um banco de dados, a fim de armazenar informações para gerenciamento da estrutura de ensino da empresa Resilia |
-<p>
+| 1 | O Objetivo do projeto é criarmos um banco de dados, a fim de armazenar informações para gerenciamento da estrutura de ensino da empresa Resilia|
+
+![FerramentasUtilizadas](https://user-images.githubusercontent.com/40433498/187931923-222dbcd8-ea6c-4418-b8cc-568634c51d7c.PNG)
+<img src="https://user-images.githubusercontent.com/40433498/187942062-4f9f5870-4054-4f3d-83bc-8dd59d801742.png" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/40433498/187942065-446685d1-58d8-4d76-a82d-fa021da2013c.jpg" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/40433498/187942082-ce544640-b6b9-4fe0-aeda-9fdcb39c6caf.jpg" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/40433498/187942823-1b27eb7f-90c6-4e2e-8b0e-ce86bd9bad8b.jpg" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/40433498/187942064-58384f53-1fa2-4b60-b46b-a03ad3a92399.png" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/40433498/187942073-f0be5a4c-9d4c-4948-b7cd-d0c654bdd891.png" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/40433498/187942079-b26ab04a-abef-4f19-9ea1-eb9cc8e19c40.jpg" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/40433498/187942068-99a16d2c-0289-4e71-a18e-fec16db3701b.png" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/40433498/187944007-0e383155-ed04-4c51-b8d3-6691fd50c613.PNG" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/40433498/187942055-29f04141-d7a3-407a-af34-6a027ba26b7e.jpg" width="50" height="50" />
+																											 
+
+| ID | FERRAMENTAS| 
+|--- |--- |
+| 1 |CANVA|
+| 2 |GITHUB|
+| 3 |TRELLO|
+| 4 |WHATSAPP|
+| 5 |DISCORD|
+| 6 |PGADMIN|
+| 7 |PLANILHAS GOOGLE|
+| 8 |GOOGLE DRIVE|
+| 9 |DBDIAGRAM.IO|
+| 10 |ALURA|
+ 
+![SQUAD](https://user-images.githubusercontent.com/40433498/187935263-7f38ebbc-4abe-4e85-89a9-d391fdc3e317.PNG)
+
+| ID | FUNÇÃO|NOME_COLABORADOR|GITHUB|LINKEDIN|
+|--- |--- | --- |--- |--- |
+| 1 |CO-FACILITADORA|CAROL CANDEIAS|<a href="https://www.linkedin.com/in/carol-candeias-ba328216a/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/> | <a href="https://github.com/CarolCandeias" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>|
+| 2 |GESTORA DE CONHECIMENTO|STEPHANIE FERNANDES|<a href="https://www.linkedin.com/in/stephaniefernandes23/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/>|<a href="#" alt="Github"> <a href="https://github.com/stefernandes23" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>|
+| 3 |GESTOR DE GENTE E ENGAJAMENTO|PATRICK ELEOTERIO|<a href="https://www.linkedin.com/in/patrickeleoterio/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/>|<a href="#" alt="Github"> <a href="https://github.com/Eleoteriop" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>|
+| 4 |COLABORADORA 1|ELIZANGELA CAMARGO|<a href="https://www.linkedin.com/in/elizangela-camargo-3ab908144/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/>|<a href="#" alt="Github"> <a href="https://github.com/elizangela-camargo" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>|
+| 5 |COLABORADOR 2|MATHEUS BARBOSA|<a href="https://www.linkedin.com/in/matheusbarbosa-an%C3%A1lise-dados/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/>|<a href="#" alt="Github"> <a href="https://github.com/MatheusB2002" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>|
+  
   
   

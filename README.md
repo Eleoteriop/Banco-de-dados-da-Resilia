@@ -34,7 +34,13 @@
 | 9 |DBDIAGRAM.IO|
 | 10 |ALURA|
  
-![SQUAD](https://user-images.githubusercontent.com/40433498/187935263-7f38ebbc-4abe-4e85-89a9-d391fdc3e317.PNG)
+![SQUAD](https://user-images.githubusercontent.com/40433498/187935263-7f38ebbc-4abe-4e85-89a9-d391fdc3e317.PNG)<p>
+1.<img src="https://user-images.githubusercontent.com/40433498/187957998-79f74bd7-55ac-4286-bf03-a0116828b354.jpg" width="100" height="100" />
+2.<img src="https://user-images.githubusercontent.com/40433498/187958014-d5561287-0cf7-443c-8d6a-986cecb845cf.jpg" width="100" height="100" />
+3.<img src="https://user-images.githubusercontent.com/40433498/187958010-950ec5d5-371f-4cba-a54e-ce68d4723888.jpg" width="100" height="100" />
+4.<img src="https://user-images.githubusercontent.com/40433498/187958001-5d8ffb87-118f-4e62-b56c-45b682a4371e.jpg" width="100" height="100" />
+5.<img src="https://user-images.githubusercontent.com/40433498/187958006-e5b4740a-cf61-4b08-9b06-4dd1ae373d3d.jpg" width="100" height="100" />
+
 
 | ID | FUNÇÃO|NOME_COLABORADOR|GITHUB|LINKEDIN|
 |--- |--- | --- |--- |--- |

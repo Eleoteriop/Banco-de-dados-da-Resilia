@@ -1,12 +1,17 @@
 
 # <center>Projeto de Conclusão -  Módulo 3 - Curso Data Analyst - RESILIA</center>
 ![banner](https://user-images.githubusercontent.com/40433498/187897196-cfa4cc6c-5dd9-40eb-8045-d9648d57f1eb.gif)
+
+
 ![image](https://user-images.githubusercontent.com/40433498/187931022-74be4fac-1f62-4b6d-aa21-e42076113fc0.PNG)
 
 
 | ID | Descrição| 
 |--- |--- |
 | 1 | O Objetivo do projeto é criarmos um banco de dados, a fim de armazenar informações para gerenciamento da estrutura de ensino da empresa Resilia|
+
+![ModelagemF](https://user-images.githubusercontent.com/40433498/187960943-ec665bf2-05b1-4374-8bf2-0a25ca7b4951.PNG)
+![modelagem](https://user-images.githubusercontent.com/40433498/187960458-8d79b97c-333b-4230-adb3-03bcfd4b7449.PNG)
 
 ![FerramentasUtilizadas](https://user-images.githubusercontent.com/40433498/187931923-222dbcd8-ea6c-4418-b8cc-568634c51d7c.PNG)
 <img src="https://user-images.githubusercontent.com/40433498/187942062-4f9f5870-4054-4f3d-83bc-8dd59d801742.png" width="50" height="50" />

@@ -11,7 +11,8 @@
 | 1 | O Objetivo do projeto é criarmos um banco de dados, a fim de armazenar informações para gerenciamento da estrutura de ensino da empresa Resilia|
 
 ![ModelagemF](https://user-images.githubusercontent.com/40433498/187960943-ec665bf2-05b1-4374-8bf2-0a25ca7b4951.PNG)
-![modelagem](https://user-images.githubusercontent.com/40433498/187960458-8d79b97c-333b-4230-adb3-03bcfd4b7449.PNG)
+![README](https://user-images.githubusercontent.com/40433498/188011915-1f4c26ea-b36e-40a4-84ea-8b01bfa0ce1f.png)
+
 
 ![FerramentasUtilizadas](https://user-images.githubusercontent.com/40433498/187931923-222dbcd8-ea6c-4418-b8cc-568634c51d7c.PNG)
 <img src="https://user-images.githubusercontent.com/40433498/187942062-4f9f5870-4054-4f3d-83bc-8dd59d801742.png" width="50" height="50" />
@@ -40,8 +41,8 @@
 | 10 |ALURA|
  
 ![SQUAD](https://user-images.githubusercontent.com/40433498/187935263-7f38ebbc-4abe-4e85-89a9-d391fdc3e317.PNG)<p>
-1.<img src="https://user-images.githubusercontent.com/40433498/187957998-79f74bd7-55ac-4286-bf03-a0116828b354.jpg" width="100" height="100" />
-2.<img src="https://user-images.githubusercontent.com/40433498/187958014-d5561287-0cf7-443c-8d6a-986cecb845cf.jpg" width="100" height="100" />
+1.<img src="https://user-images.githubusercontent.com/40433498/188012361-03b2ecff-63ee-4222-b0a9-902a3f5d1745.jpeg" width="100" height="100" />
+2.<img src="https://user-images.githubusercontent.com/40433498/188012457-50c3e6b4-7268-4912-98f9-114f384ddcb4.jpeg" width="100" height="100" />
 3.<img src="https://user-images.githubusercontent.com/40433498/187958010-950ec5d5-371f-4cba-a54e-ce68d4723888.jpg" width="100" height="100" />
 4.<img src="https://user-images.githubusercontent.com/40433498/187958001-5d8ffb87-118f-4e62-b56c-45b682a4371e.jpg" width="100" height="100" />
 5.<img src="https://user-images.githubusercontent.com/40433498/187958006-e5b4740a-cf61-4b08-9b06-4dd1ae373d3d.jpg" width="100" height="100" />

@@ -7,7 +7,7 @@
 
 | ID | Descrição| 
 |--- |--- |
-| 1 | O Objetivo do projeto é criarmos um banco de dados, a fim de armazenar informações para gerenciamento da estrutura de ensino da empresa Resilia|
+| 1 | O objetivo do projeto é criarmos um banco de dados, a fim de armazenar informações para gerenciamento da estrutura de ensino da empresa Resilia modernizando o processo a partir modelagens, scripts SQL e representação de entidades e seus respectivos atributos|
 
 
 ![README](https://user-images.githubusercontent.com/40433498/188011915-1f4c26ea-b36e-40a4-84ea-8b01bfa0ce1f.png)
@@ -23,12 +23,12 @@
 5.<img src="https://user-images.githubusercontent.com/40433498/187958006-e5b4740a-cf61-4b08-9b06-4dd1ae373d3d.jpg" width="100" height="100" />
 </p>
 
-| ID | FUNÇÃO|NOME_COLABORADOR|LINKEDIN|GITHUB|
-|--- |--- | --- |--- |--- |
+|   ID   |      FUNÇÃO     |NOME_COLABORADOR|LINKEDIN|GITHUB|
+|------ |:------: | :------: |:------: |------|
 | 1 |CO-FACILITADORA|CAROL CANDEIAS|<a href="https://www.linkedin.com/in/carol-candeias-ba328216a/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/> | <a href="https://github.com/CarolCandeias/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteelink=https://https://github.com/CarolCandeias/"/>|
 | 2 |GESTORA DE CONHECIMENTO|STEPHANIE FERNANDES|<a href="https://www.linkedin.com/in/stephaniefernandes23/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/>|<a href="#" alt="Github"> <a href="https://github.com/stefernandes23" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteelink=https://https://github.com/CarolCandeias/"/>|
 | 3 |GESTOR DE GENTE E ENGAJAMENTO|PATRICK ELEOTERIO|<a href="https://www.linkedin.com/in/patrickeleoterio/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/>|<a href="#" alt="Github"> <a href="https://github.com/Eleoteriop" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteelink=https://https://github.com/CarolCandeias/"/>|
 | 4 |COLABORADORA 1|ELIZANGELA CAMARGO|<a href="https://www.linkedin.com/in/elizangela-camargo-3ab908144/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/>|<a href="https://github.com/elizangela-camargo" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteelink=https://https://github.com/CarolCandeias/"/>|
-| 5 |COLABORADOR 2|MATHEUS BARBOSA|<a href="https://www.linkedin.com/in/matheusbarbosa-an%C3%A1lise-dados/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/>| <a href="https://github.com/MatheusB2002" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteelink=https://https://github.com/CarolCandeias/"/>|
+| 5 |COLABORADOR 2|MATHEUS BARBOSA|<a href="https://www.linkedin.com/in/matheusbarbosa-an%C3%A1lise-dados/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/>| <a href="https://github.com/MatheusB2002" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteelink=https://https://github.com/CarolCandeias/"/>|:
 
  <a href="https://www.canva.com/design/DAFJ5tPHc1s/GbaY0uj0y4cXI-wByXRzjw/view" target="_blank"> <img src="https://user-images.githubusercontent.com/40433498/188034809-3f53c075-1166-4a8e-a351-c036494a3e1d.png"/>

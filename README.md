@@ -6,9 +6,14 @@
 
 
 #
-| ID | Descrição| 
+| ID |:open_book: Desenvolvimento do projeto :open_book:| 
 |--- |--- |
-| 1 | O Objetivo do projeto é criarmos um banco de dados, a fim de armazenar informações para gerenciamento da estrutura de ensino da empresa Resilia|
+| 1 | O Objetivo do projeto é criarmos um banco de dados, a fim de armazenar informações para gerenciamento da estrutura de ensino da empresa Resilia para melhor funcionamento e agregação entre os departamentos.  Utilizamos como base os departamentos de alunos, turmas, funcionários, facilitadores soft e hard, módulos, pagamentos, cursos e ementa.
+| 2 | O projeto foi preparado com o uso da linguagem SQL e do pgAdmin para manuseio e domínio do banco de dados.
+| 3 | Alimentação de planilha representando as guias como entidades e os atributos sendo as colunas. Depois foi populado cada atributo referente
+| 4 | Desenvolvimento de modelagem de dados
+| 5 | Elaboração do Banco de Dados envolvendo database, tabelas e chaves
+| 6 | 06 consultas realizadas (03 - solicitadas pela Resilia + 03 - criadas pela equipe) + 1 view (para visualização da 6ª consulta)
 
 
 
@@ -18,18 +23,11 @@
 ![README](https://user-images.githubusercontent.com/40433498/188011915-1f4c26ea-b36e-40a4-84ea-8b01bfa0ce1f.png)
 
 
-| ID | F   E   R   R   A   M   E   N   T   A   S| 
+| I D | :hammer: F    E    R    R    A    M    E    N    T    A   S _ U  T  I  L  I  Z  A  D  A  S :hammer:| 
 |--------------- |--------------------------------- |
-| 1 |C  A  N  V  A|
-| 2 |G  I  T  H  U  B|
-| 3 |T  R  E  L  L  O|
-| 4 |W  H  A  T  S  A  P  P|
-| 5 |D  I  S  C  O  R  D|
-| 6 |P  G  A  D  M  I  N|
-| 7 |P  L  A  N  I  L  H  A  S    G  O  O  G  L  E|
-| 8 |G  O  O  G  L  E D  R  I  V  E|
-| 9 |D  B  D  I  A  G  R  A  M  .  I  O|
-| 10 |A  L  U  R  A|
+| 01 |  CANVA  ,   TRELLO  ,   WHATSAPP  ,   DISCORD  ,   PGADMIN  ,   PLANILHAS   GOOGLE  ,   GOOGLE   DRIVE  ,   DBDIAGRAM.IO  ,  BRMODELO , ALURA  |
+
+
  
 	
 <p align="center">

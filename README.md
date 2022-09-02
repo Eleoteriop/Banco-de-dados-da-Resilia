@@ -3,20 +3,17 @@
 ![banner](https://user-images.githubusercontent.com/40433498/187897196-cfa4cc6c-5dd9-40eb-8045-d9648d57f1eb.gif)
 
 
-![image](https://user-images.githubusercontent.com/40433498/187931022-74be4fac-1f62-4b6d-aa21-e42076113fc0.PNG)
 
 
 | ID | Descrição| 
 |--- |--- |
 | 1 | O Objetivo do projeto é criarmos um banco de dados, a fim de armazenar informações para gerenciamento da estrutura de ensino da empresa Resilia|
 
-![ModelagemF](https://user-images.githubusercontent.com/40433498/187960943-ec665bf2-05b1-4374-8bf2-0a25ca7b4951.PNG)
+
 ![README](https://user-images.githubusercontent.com/40433498/188011915-1f4c26ea-b36e-40a4-84ea-8b01bfa0ce1f.png)
 
 
-![FerramentasUtilizadas](https://user-images.githubusercontent.com/40433498/187931923-222dbcd8-ea6c-4418-b8cc-568634c51d7c.PNG)
-<img src="https://user-images.githubusercontent.com/40433498/187942062-4f9f5870-4054-4f3d-83bc-8dd59d801742.png" width="50" height="50" />
-<img src="https://user-images.githubusercontent.com/40433498/187942065-446685d1-58d8-4d76-a82d-fa021da2013c.jpg" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/40433498/187942062-4f9f5870-4054-4f3d-83bc-8dd59d801742.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/40433498/187942065-446685d1-58d8-4d76-a82d-fa021da2013c.jpg" width="50" height="50" />
 <img src="https://user-images.githubusercontent.com/40433498/187942082-ce544640-b6b9-4fe0-aeda-9fdcb39c6caf.jpg" width="50" height="50" />
 <img src="https://user-images.githubusercontent.com/40433498/187942823-1b27eb7f-90c6-4e2e-8b0e-ce86bd9bad8b.jpg" width="50" height="50" />
 <img src="https://user-images.githubusercontent.com/40433498/187942064-58384f53-1fa2-4b60-b46b-a03ad3a92399.png" width="50" height="50" />
@@ -40,7 +37,7 @@
 | 9 |DBDIAGRAM.IO|
 | 10 |ALURA|
  
-![SQUAD](https://user-images.githubusercontent.com/40433498/187935263-7f38ebbc-4abe-4e85-89a9-d391fdc3e317.PNG)<p>
+
 1.<img src="https://user-images.githubusercontent.com/40433498/188012361-03b2ecff-63ee-4222-b0a9-902a3f5d1745.jpeg" width="100" height="100" />
 2.<img src="https://user-images.githubusercontent.com/40433498/188012457-50c3e6b4-7268-4912-98f9-114f384ddcb4.jpeg" width="100" height="100" />
 3.<img src="https://user-images.githubusercontent.com/40433498/187958010-950ec5d5-371f-4cba-a54e-ce68d4723888.jpg" width="100" height="100" />

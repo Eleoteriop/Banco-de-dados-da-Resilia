@@ -15,6 +15,14 @@
 | 5 | Elaboração do Banco de Dados envolvendo database, tabelas e chaves
 | 6 | 06 consultas realizadas (03 - solicitadas pela Resilia + 03 - criadas pela equipe) + 1 view (para visualização da 6ª consulta)
 
+| ID |	:mag_right:  :technologist: Consultas realizadas com SQL :woman_technologist: 	:mag_right:| 
+|--- |--- |
+| 1 | Quantidade total de estudantes cadastrados no banco. 
+| 2 | Todos os estudantes com os respectivos cursos que eles estão cadastrados.
+| 3 | Pessoas facilitadoras que atuam em mais de uma turma.
+| 4 | Alunos que concluiram o curso e estão devendo o pagamento.
+| 5 | O que as turmas em andamento estão aprendendo no atual modulo.
+| 6 | View dos Facilitadores Soft + Contagem de turmas que facilitadores já deram aula.
 
 
 
